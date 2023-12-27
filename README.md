@@ -10,5 +10,4 @@ Fourth set of changes from Branch 2
 Fourth sets of changes from Branch 1
 Fifth sets of chagnes from Branch 2
 Fifth sets of chagnes for branch 1 
-Sixth set of changes from Branch 2 
-Sixth sets of changes from Branch 1
+Sixth set of changes from Branch 2
